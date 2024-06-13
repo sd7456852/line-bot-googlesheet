@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "linebot-excel-422514",
+  "private_key_id": "fdb37cdbce8d3dfad1b87d94681556329c01b5f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXkkLnjDYC6sST\nHrU+fMSXWiZ9BlFHn3iwCEiFPs5A0YXKE1zIcL7lTO0yLFBTGeWixQSIzSYEVuYE\nbzmIBbry8vG9IKjVpKlEXULEkdmxGi9Nmev+cA/xgUwVx2lzZ4KAtYWgcYz2Cj+4\nP07U3VWCuphBJQL9lQXLkP25TMjoCXBhRZ5pFsJHr90jTRPNIAdQzuZzIn2DojvS\nSRDe1g2yexudOp9bpUIrhG2N0sdC7dAAFUr0OgTBKgztRURaRdJcvFAqYomeagem\nM29+EPZYYFisLfpbQpbeRN9Up9vMzMG5G9+Cnv0066Y3065qgESd1gjbF/eC1nhn\nwyxlxhs1AgMBAAECggEAJZmeT9LV7OZUCTE2/cI3bArOYcpDTRHUtCeNtqgAw6+H\n/XopGdEIiuhDCxhNnmEK+7wPkWju85zQm/9mcoJFXHDhl1JmAHWrDICTz8N8y/Y8\nP/XUAto6/a3Gvpm8m+N3EMoYl6aWpqec+58XOeutKZMwUVSKU/61Nw+AIdzxwf7p\nXN8V7Bkje3z7B/01KWGkuD0vxuXTb4OcwRVw/9h6ynXchNjbLMLQW073vVt2vOjb\nfbjH5Q/scJdtKd2rLLq4SQU4hdzH3C4QB3uoSjmaNZezdonr+v/a7lLR9u71VEj2\n8OvZXeO4EgfpHqGfYmVmYvruppRlAJl5Or5WWIrOoQKBgQD6Qug1StPsfrv5esue\nPNE+ng5aTxAoT7UKoQDVrn0Si+I1jf8ae0uJIu6yvy/f42q7Es51bsEdZSz32e7/\nP3kmDQvndkcm/VGf0Mai/LnqamcVv+n9elV5i38mRk+shzuoIPUj7eigo9TjX9az\nUW8QrbDX5kC8ZNsbG+MmQvbeiQKBgQDcg7c4XBIRUeOkH6Sdy3U7/dhxWrPW/3+J\n/xcMpSaCpLC0jNbI5jfhhXnS/Jv1inmk9cfiUATXIjY9j0DtJlAiAQxOkQG/uihH\nddlgRYwRnRWF4RqoLnwQnwiiJrZUD8oLx26upG6QNz1YQKtZj4U8zE5FukxvQNzu\n4gt9urDMTQKBgQCyMUG18HnFQtgFY3HoUdWLiG8fznvquBZoYwt9Gqjjs8Z1641h\nBblbBAyCKa+k8wDkAxgOdbX7gDbso7iQ9lkExvVa8dTn5idga/+Dvf+C8hBEZEnv\nulNyH+mBDz9b0U6hABaMZrHk78J9w5fURn+WmJX6pHAjtIxuWQT8EWJGQQKBgBnG\n9+sJsD8AEJlF7atYdkreAKg3jyBJ27HY9OvQfnD1KYbhk9YGO3AMd1I3n0+TsWac\nKJKHAhnX8Pk/Prq6KNHgx3yDrO2pqD26Q//iAV6puzNcPg586JnUzWCPH+8xrU+1\nL3YQ2K/ZFT20yZL9mPijdV7nSToUHf96wxcedL5dAoGAY7luDSEEyZwxhFQz4rd3\nvZGe076yBUgEeT6bdquLcv1W/sNbHonYcCop1XzheGIe4xz6R/meA8+HThIKyDxC\ngDT6+SMfxO+2piNr1QiUcPxz2QTH5I+oYqHTLgxveoo3zWKOL3jSiqj4q3hNyvIe\nrD98YcEYlyZlewk9xUgKtXM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "line-bot-googlesheet@linebot-excel-422514.iam.gserviceaccount.com",
+  "client_id": "102448219478152198624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/line-bot-googlesheet%40linebot-excel-422514.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
